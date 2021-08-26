@@ -13,13 +13,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require bajhoe/yii2-lightbox2-widget "@dev"
+php composer.phar require bajhoe/yii2-widget-lightbox2 "*"
 ```
 
 or add
 
 ```json
-"bajhoe/yii2-lightbox2-widget" : "@dev"
+"bajhoe/yii2-widget-lightbox2" : "*"
 ```
 
 to the require section of your application's `composer.json` file.
