@@ -1,13 +1,13 @@
 {
-    "name": "coderius/yii2-lightbox2-widget",
-    "description": "Yii 2 lightbox2-widget",
+    "name": "coderius/yii2-widget-lightbox2",
+    "description": "Yii 2 lightbox2 widget",
     "keywords": ["lightbox", "widget", "lightbox2", "yii2"],
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
         {
-            "name": "Serg Coderius",
-            "email": "sunrise4fun@gmail.com"
+            "name": "Bayu Setiawan",
+            "email": "bajhoe@gmail.com"
         }
     ],
     
