@@ -5,9 +5,15 @@
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
+                {
+            "name": "Serg Coderius",
+            "email": "sunrise4fun@gmail.com",
+            "role": "Maker of this Yii2 Plugin"
+        },
         {
             "name": "Bayu Setiawan",
             "email": "bajhoe@gmail.com"
+            "role": "Forker and maintainer"
         }
     ],
     
