@@ -1,5 +1,6 @@
 Lightbox2 widget for Yii2
 =========================
+Forked from Coderius. Forking reason: neutralize script and fixing minor bugs.
 The Lightbox2 widget is a customized lightbox script based on [Lightbox](https://lokeshdhakar.com/projects/lightbox2/). and 
 This widget used to overlay images on top of the current page. 
 
@@ -12,13 +13,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require coderius/yii2-lightbox2-widget "@dev"
+php composer.phar require bajhoe/yii2-lightbox2-widget "@dev"
 ```
 
 or add
 
 ```json
-"coderius/yii2-lightbox2-widget" : "@dev"
+"bajhoe/yii2-lightbox2-widget" : "@dev"
 ```
 
 to the require section of your application's `composer.json` file.
